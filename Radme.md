@@ -83,6 +83,7 @@ $
 
 ```
 # AUTHORS
-    * Denis Bollo <span style="color: blue;">Bollo Denis</span>.
-    * Amwenya Nehondo <span style="color: blue;">Amwenya Nehondo</span>.
+
+    * [Bollo Denis](mailto:bollodenis@gmail.com)  
+    * [Amwenya Nehondo](mailto:nehondo@gmail.com)
 
