@@ -26,15 +26,15 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 # Usage
 The console works both in interactive mode and non-interactive mode, much like a Unix shell. It prints a prompt (hbnb) and waits for the user for input.
 
-| Command | Example |
+|| Command | Example |
 | ------- | ------- |
-| Run the console | ./console.py |
+| Run the console | `./console.py` |
 | Quit the console | (hbnb) quit |
-| Display the help for a command | (hbnb) help `<command>` |
-| <mark>Create an object (prints its id)</mark> | <mark>(hbnb) create `<class>`</mark> |
-| Show an object | (hbnb) show `<class>` `<id>` or (hbnb) `<class>`.show(`<id>`) |
-| Destroy an object | (hbnb) destroy `<class>` `<id>` or (hbnb) `<class>`.destroy(`<id>`) |
-| Show all objects, or all instances of a class | (hbnb) all or (hbnb) all `<class>` |
+| Display the help for a command | `(hbnb) help <command>` |
+| <span style="background-color: #FFFF00">Create an object (prints its id)</span> | <span style="background-color: #FFFF00">(hbnb) create `<class>`</span> |
+| Show an object | `(hbnb) show `<class>` `<id>` or (hbnb) `<class>`.show(`<id>`) |
+| Destroy an object | `(hbnb) destroy `<class>` `<id>` or (hbnb) `<class>`.destroy(`<id>`) |
+| Show all objects, or all instances of a class | `(hbnb) all or (hbnb) all `<class>` |
 
 
 # GitHub
