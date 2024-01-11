@@ -84,5 +84,5 @@ $
 ```
 # AUTHORS
 
-    * **Denis Bollo**
+    * **Denis Bollo*
     * *Amwenya Nehondo*
