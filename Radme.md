@@ -26,15 +26,15 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 # Usage
 The console works both in interactive mode and non-interactive mode, much like a Unix shell. It prints a prompt (hbnb) and waits for the user for input.
 
-| command| Example |
-| ---------|----------|
-| Run the console	| ./console.py | 
-| Quit the console	 | (hbnb) quit | 
-| Display the help for a command | (hbnb) help <command> | 
-| Create an object (prints its id) | (hbnb) create <class>
-| Show an object | (hbnb) show <class> <id> or (hbnb) <class>.show(<id>)
-| Destroy an object | (hbnb) destroy <class> <id> or (hbnb) <class>.destroy(<id>)
-| Show all objects, or all instances of a class | (hbnb) all or (hbnb) all <class>
+| Command | Example |
+| ------- | ------- |
+| Run the console | ./console.py |
+| Quit the console | (hbnb) quit |
+| Display the help for a command | (hbnb) help `<command>` |
+| <mark>Create an object (prints its id)</mark> | <mark>(hbnb) create `<class>`</mark> |
+| Show an object | (hbnb) show `<class>` `<id>` or (hbnb) `<class>`.show(`<id>`) |
+| Destroy an object | (hbnb) destroy `<class>` `<id>` or (hbnb) `<class>`.destroy(`<id>`) |
+| Show all objects, or all instances of a class | (hbnb) all or (hbnb) all `<class>` |
 
 
 # GitHub
@@ -59,25 +59,25 @@ $
 ```
 But also in non-interactive mode: (like the Shell project in C)
 
-```bash
+```
 $ echo "help" | ./console.py
-<span style="color: blue;">(hbnb)</span>
+(hbnb)
 
-<span style="color: blue;">Documented commands (type help &lt;topic&gt;):</span>
+Documented commands (type help <topic>):
 ========================================
 EOF  help  quit
-<span style="color: blue;">(hbnb)</span> 
+(hbnb) 
 $
 $ cat test_help
 help
 $
 $ cat test_help | ./console.py
-<span style="color: blue;">(hbnb)</span>
+(hbnb)
 
-<span style="color: blue;">Documented commands (type help &lt;topic&gt;):</span>
+Documented commands (type help <topic>):
 ========================================
 EOF  help  quit
-<span style="color: blue;">(hbnb)</span> 
+(hbnb) 
 $
 
 ```
