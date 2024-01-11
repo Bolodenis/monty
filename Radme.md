@@ -84,6 +84,5 @@ $
 ```
 # AUTHORS
 
-    * [Bollo Denis](mailto:bollodenis@gmail.com)  
-    * [Amwenya Nehondo](mailto:nehondo@gmail.com)
-
+    * **Denis Bollo**
+    * *Amwenya Nehondo*
