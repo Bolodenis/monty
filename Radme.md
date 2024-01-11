@@ -83,5 +83,6 @@ $
 
 ```
 # AUTHORS
-    * Denis Bollo <span style="color: blue;"><Bollo Denis>.</span>
-    * Amwenya Nehondo <span style="color: blue;">Amwenya Nehondo></span>
+    * Denis Bollo <span style="color: blue;">Bollo Denis</span>.
+    * Amwenya Nehondo <span style="color: blue;">Amwenya Nehondo</span>.
+
