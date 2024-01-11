@@ -59,25 +59,25 @@ $
 ```
 But also in non-interactive mode: (like the Shell project in C)
 
-```
+```bash
 $ echo "help" | ./console.py
-(hbnb)
+<span style="color: blue;">(hbnb)</span>
 
-Documented commands (type help <topic>):
+<span style="color: blue;">Documented commands (type help &lt;topic&gt;):</span>
 ========================================
 EOF  help  quit
-(hbnb) 
+<span style="color: blue;">(hbnb)</span> 
 $
 $ cat test_help
 help
 $
 $ cat test_help | ./console.py
-(hbnb)
+<span style="color: blue;">(hbnb)</span>
 
-Documented commands (type help <topic>):
+<span style="color: blue;">Documented commands (type help &lt;topic&gt;):</span>
 ========================================
 EOF  help  quit
-(hbnb) 
+<span style="color: blue;">(hbnb)</span> 
 $
 
 ```
@@ -85,6 +85,5 @@ $
 
 * Denis Bollo
 * Amwenya Nehondo
-
 
 
